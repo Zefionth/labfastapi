@@ -1,6 +1,0 @@
-Accuracy: 0.6500
-Precision: 0.6444
-Recall: 0.6042
-F1-score: 0.6237
-ROC-AUC: 0.6812
-Best params: {'classifier__C': 10.0, 'classifier__penalty': 'l2', 'classifier__solver': 'lbfgs'}
